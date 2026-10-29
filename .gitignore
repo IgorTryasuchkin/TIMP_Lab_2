@@ -1,0 +1,9 @@
+*.o
+*.out
+gronsfeld/gronsfeld
+transposition/transposition
+Debug/
+Release/
+*.txt.session
+.codelite/
+*.workspace
